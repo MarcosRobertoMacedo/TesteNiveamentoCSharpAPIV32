@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mrmacedo\\Desktop\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\mrmacedo\\Documents\\Projetos\\TesteNiveamentoCSharpAPIV32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\mrmacedo\\documents\\projetos\\testeniveamentocsharpapiv32\\questao5\\domain\\entities\\consultasaldodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\consultasaldodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|c:\\users\\mrmacedo\\documents\\projetos\\testeniveamentocsharpapiv32\\questao2\\obj\\debug\\net5.0\\questao2.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|solutionrelative:questao2\\obj\\debug\\net5.0\\questao2.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultaSaldoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mrmacedo\\Documents\\Projetos\\TesteNiveamentoCSharpAPIV32\\Questao5\\Domain\\Entities\\ConsultaSaldoDTO.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\ConsultaSaldoDTO.cs",
+              "ToolTip": "C:\\Users\\mrmacedo\\Documents\\Projetos\\TesteNiveamentoCSharpAPIV32\\Questao5\\Domain\\Entities\\ConsultaSaldoDTO.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\ConsultaSaldoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T22:21:52.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Questao2.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\mrmacedo\\Documents\\Projetos\\TesteNiveamentoCSharpAPIV32\\Questao2\\obj\\Debug\\net5.0\\Questao2.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "Questao2\\obj\\Debug\\net5.0\\Questao2.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\mrmacedo\\Documents\\Projetos\\TesteNiveamentoCSharpAPIV32\\Questao2\\obj\\Debug\\net5.0\\Questao2.GlobalUsings.g.cs",
+              "RelativeToolTip": "Questao2\\obj\\Debug\\net5.0\\Questao2.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T22:18:55.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,6 @@
+C:\Users\mrmacedo\Documents\Projetos\TesteNiveamentoCSharpAPIV32\Questao2\obj\Debug\net5.0\Questao2.csproj.AssemblyReference.cache
+C:\Users\mrmacedo\Documents\Projetos\TesteNiveamentoCSharpAPIV32\Questao2\obj\Debug\net5.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmacedo\Documents\Projetos\TesteNiveamentoCSharpAPIV32\Questao2\obj\Debug\net5.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\mrmacedo\Documents\Projetos\TesteNiveamentoCSharpAPIV32\Questao2\obj\Debug\net5.0\Questao2.AssemblyInfo.cs
+C:\Users\mrmacedo\Documents\Projetos\TesteNiveamentoCSharpAPIV32\Questao2\obj\Debug\net5.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\mrmacedo\Documents\Projetos\TesteNiveamentoCSharpAPIV32\Questao2\obj\Debug\net5.0\Questao2.sourcelink.json

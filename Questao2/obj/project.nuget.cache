@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5T4EV5f3NTUAjQfbwYaA2jMyZOgipEbwv3LwxYQbhoA1XN8wxtVc75yXwC+kAtb9wf15oVE5vSU6XdRG2q/Jyw==",
+  "dgSpecHash": "wguA71+5IGI9JtGfmtz5Ayiv2lZflB/BKVNFnLTw8jWQSX7dEu3fvk382LziTaGHiPmxNQa0NDg+lLPuVT3M4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrmacedo\\Desktop\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 2\\Questao2\\Questao2.csproj",
+  "projectFilePath": "C:\\Users\\mrmacedo\\Documents\\Projetos\\TesteNiveamentoCSharpAPIV32\\Questao2\\Questao2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrmacedo\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\mrmacedo\\.nuget\\packages\\microsoft.netcore\\5.0.2\\microsoft.netcore.5.0.2.nupkg.sha512",
@@ -89,8 +89,7 @@
     "C:\\Users\\mrmacedo\\.nuget\\packages\\system.threading.threadpool\\4.0.10\\system.threading.threadpool.4.0.10.nupkg.sha512",
     "C:\\Users\\mrmacedo\\.nuget\\packages\\system.threading.timer\\4.0.1\\system.threading.timer.4.0.1.nupkg.sha512",
     "C:\\Users\\mrmacedo\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
-    "C:\\Users\\mrmacedo\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
-    "C:\\Users\\mrmacedo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\mrmacedo\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
   ],
   "logs": [
     {
@@ -100,7 +99,7 @@
       "message": "O pacote 'Microsoft.NETCore.App' 2.0.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-7mfr-774f-w5r9",
       "libraryId": "Microsoft.NETCore.App",
       "targetGraphs": [
-        "net5.0"
+        "net6.0"
       ]
     }
   ]

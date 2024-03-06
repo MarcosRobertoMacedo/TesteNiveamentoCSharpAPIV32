@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrmacedo\\Desktop\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 2\\Questao2\\Questao2.csproj": {}
+    "C:\\Users\\mrmacedo\\Documents\\Projetos\\TesteNiveamentoCSharpAPIV32\\Questao2\\Questao2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrmacedo\\Desktop\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 2\\Questao2\\Questao2.csproj": {
+    "C:\\Users\\mrmacedo\\Documents\\Projetos\\TesteNiveamentoCSharpAPIV32\\Questao2\\Questao2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrmacedo\\Desktop\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 2\\Questao2\\Questao2.csproj",
+        "projectUniqueName": "C:\\Users\\mrmacedo\\Documents\\Projetos\\TesteNiveamentoCSharpAPIV32\\Questao2\\Questao2.csproj",
         "projectName": "Questao2",
-        "projectPath": "C:\\Users\\mrmacedo\\Desktop\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 2\\Questao2\\Questao2.csproj",
+        "projectPath": "C:\\Users\\mrmacedo\\Documents\\Projetos\\TesteNiveamentoCSharpAPIV32\\Questao2\\Questao2.csproj",
         "packagesPath": "C:\\Users\\mrmacedo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrmacedo\\Desktop\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 2\\Questao2\\obj\\",
+        "outputPath": "C:\\Users\\mrmacedo\\Documents\\Projetos\\TesteNiveamentoCSharpAPIV32\\Questao2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -24,15 +24,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.NETCore": {
               "target": "Package",
@@ -75,12 +75,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

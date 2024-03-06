@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WSbx44GLyxt8ts4t0N9DiU50lp8MUK0qKD3ltFUf0EVTT0oHrMPCa3mvLkC6PiyQML1dG0defiB9gg9da028DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrmacedo\\Desktop\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 2\\Questao1\\Questao1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrmacedo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

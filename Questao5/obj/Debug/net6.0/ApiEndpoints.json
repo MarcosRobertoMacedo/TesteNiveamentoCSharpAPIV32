@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Questao5.Infrastructure.Services.Controllers.ContaCorrenteController",
+    "Method": "Get",
+    "RelativePath": "ContaCorrente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idContaCorrente",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Questao5.Infrastructure.Services.Controllers.ContaCorrenteController",
+    "Method": "Post",
+    "RelativePath": "ContaCorrente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movimentacaoDTO",
+        "Type": "Questao5.Domain.Entities.MovimentoContaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
